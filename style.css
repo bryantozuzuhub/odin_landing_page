@@ -17,6 +17,8 @@ img {
     display: flex;
     flex-direction: column;
     padding: 40px;
+    margin: 0px;
+    width: 100px;
 }
 .items {
     justify-content: center;
