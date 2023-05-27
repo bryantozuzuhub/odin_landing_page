@@ -2,27 +2,12 @@
     border: 1px solid red;
     padding: 5px
 }
-
-.container {
+.header {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
-img {
-    height:60px;
-    width: 60px;
-}
-
-.top_section {
-    display: flex;
-    flex-direction: column;
-    padding: 40px;
-    margin: 0px;
-    width: 100px;
-}
-.items {
+.flex-item01, .flex-item02, .flex-item03 {
     justify-content: center;
 }
-
-
-
+    
