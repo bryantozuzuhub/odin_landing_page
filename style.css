@@ -8,6 +8,6 @@
 }
 
 .flex-item01, .flex-item02, .flex-item03 {
-    justify-content: center;
+    justify-content: flex-end;
 }
     
